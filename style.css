@@ -1,0 +1,47 @@
+header{
+    background-color: #C287E8;
+}
+
+
+
+.navbar-collapse li a{
+    text-decoration: none;
+    color: #fff
+}
+#cabecalho .nav .nav-link.active{
+    background-color: #EFB9CB;
+    color: #fff;
+}
+
+#cabecalho h1{
+    color: #fff;
+    font-weight: bold;
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links li a{
+    text-decoration: none;
+}
+
+#contact-us button{
+    background-color: #EFB9CB;
+    color: white;
+}
+
+h2{
+    color: #EECFD4;
+    font-weight: bolder;
+}
+
+label{
+    color: #EFB9CB;
+}
+
+h3, p{
+    color: rgb(177, 174, 174);
+    
+}
